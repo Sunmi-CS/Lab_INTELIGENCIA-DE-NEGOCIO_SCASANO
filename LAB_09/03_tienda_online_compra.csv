@@ -1,0 +1,201 @@
+﻿id_usuario,tiempo_pagina,productos_vistos,clics,edad,tipo_dispositivo,medio_publicidad,categoria_producto,compro
+U0001,93.6,19,0,42,Movil,Redes sociales,Belleza,0
+U0002,54.4,25,1,60,Tablet,Orgánico,Ropa,1
+U0003,449.6,1,58,45,Movil,Orgánico,Ropa,0
+U0004,24.5,14,34,60,Tablet,Google Ads,Tecnología,0
+U0005,281.9,2,46,39,Movil,Redes sociales,Ropa,1
+U0006,453.1,25,28,36,Laptop,Email,Belleza,1
+U0007,322.0,10,57,55,Laptop,Redes sociales,Ropa,0
+U0008,419.8,16,19,29,Tablet,,Hogar,1
+U0009,18.1,26,29,49,Tablet,Email,Belleza,0
+U0010,342.5,29,39,26,Laptop,Google Ads,Belleza,1
+U0011,323.5,6,22,61,Tablet,Google Ads,,1
+U0012,,12,18,39,Laptop,Google Ads,Hogar,1
+U0013,330.0,17,42,57,Tablet,Email,Belleza,0
+U0014,206.5,4,61,18,Movil,Redes sociales,Hogar,1
+U0015,469.9,25,35,28,Movil,Redes sociales,Belleza,1
+U0016,401.7,13,18,61,Laptop,Email,Belleza,1
+U0017,595.6,26,56,34,Movil,Orgánico,Belleza,1
+U0018,576.3,25,48,21,Movil,Orgánico,Hogar,1
+U0019,30.1,27,38,53,Laptop,Orgánico,Belleza,1
+U0020,176.2,6,62,60,Tablet,Google Ads,Tecnología,1
+U0021,378.7,16,15,39,Tablet,Redes sociales,Hogar,1
+U0022,547.7,12,6,34,Laptop,Redes sociales,Ropa,0
+U0023,184.1,22,46,22,Tablet,Email,Ropa,1
+U0024,136.6,7,71,55,Tablet,Redes sociales,Belleza,0
+U0025,534.4,20,66,64,Laptop,Google Ads,Hogar,1
+U0026,51.8,23,14,20,Movil,Orgánico,Belleza,1
+U0027,402.2,25,12,23,Tablet,Google Ads,Ropa,1
+U0028,302.9,24,78,31,Tablet,Redes sociales,,1
+U0029,436.6,30,27,48,Tablet,Orgánico,Hogar,1
+U0030,247.5,25,40,23,Laptop,Redes sociales,Ropa,1
+U0031,443.0,22,56,30,Tablet,Orgánico,,0
+U0032,406.1,22,13,41,Laptop,Redes sociales,Tecnología,1
+U0033,206.5,20,51,23,Movil,Orgánico,Belleza,1
+U0034,363.9,13,62,48,Laptop,Google Ads,Belleza,1
+U0035,408.5,6,48,54,Tablet,Email,Ropa,1
+U0036,301.2,17,33,50,Laptop,,Tecnología,0
+U0037,397.3,25,38,61,Movil,Orgánico,Belleza,1
+U0038,288.2,28,20,48,Movil,,Hogar,1
+U0039,503.0,12,74,17,Tablet,Email,Belleza,1
+U0040,,3,39,23,Laptop,,Tecnología,1
+U0041,18.2,11,48,52,Laptop,Email,Tecnología,0
+U0042,221.2,14,25,47,Tablet,Redes sociales,Ropa,1
+U0043,61.4,11,34,20,Tablet,Orgánico,Belleza,0
+U0044,244.4,20,65,45,Tablet,Google Ads,Tecnología,1
+U0045,384.6,26,78,65,Laptop,Redes sociales,Ropa,1
+U0046,43.3,7,52,,Laptop,Google Ads,Hogar,0
+U0047,594.8,14,4,28,Movil,Email,Ropa,1
+U0048,37.9,29,10,36,Tablet,Email,Tecnología,0
+U0049,71.6,24,64,23,Tablet,Email,Belleza,0
+U0050,145.4,14,27,25,Movil,Google Ads,Ropa,0
+U0051,257.1,,31,33,Movil,Email,Belleza,1
+U0052,416.0,26,30,32,Tablet,Orgánico,,1
+U0053,576.6,30,32,35,Movil,Google Ads,,1
+U0054,520.5,27,62,46,Tablet,Orgánico,Hogar,1
+U0055,489.0,24,41,,Tablet,Redes sociales,Tecnología,1
+U0056,70.9,8,66,61,Tablet,Google Ads,Belleza,0
+U0057,,14,47,27,Laptop,Orgánico,Ropa,1
+U0058,511.8,2,51,55,Laptop,Email,Ropa,1
+U0059,405.8,4,28,61,Movil,Google Ads,Hogar,1
+U0060,253.9,14,18,17,,Email,Ropa,0
+U0061,417.3,22,27,61,Laptop,Orgánico,Hogar,1
+U0062,482.3,23,5,16,Laptop,Orgánico,Hogar,0
+U0063,206.8,15,16,21,Laptop,Orgánico,Ropa,1
+U0064,542.2,9,78,64,Laptop,Email,Belleza,1
+U0065,36.7,5,6,30,Movil,Redes sociales,Belleza,0
+U0066,293.7,16,14,62,Movil,Redes sociales,Hogar,1
+U0067,352.2,1,67,65,Tablet,Google Ads,Belleza,0
+U0068,227.3,30,13,36,Movil,Redes sociales,Tecnología,1
+U0069,375.3,15,41,62,Tablet,Google Ads,Ropa,0
+U0070,156.8,8,51,21,Movil,Google Ads,Ropa,1
+U0071,553.4,29,77,24,Laptop,Redes sociales,Hogar,1
+U0072,370.3,14,80,43,Movil,Redes sociales,Hogar,0
+U0073,283.6,3,61,35,Movil,Google Ads,Hogar,0
+U0074,,22,72,32,Laptop,Email,Tecnología,0
+U0075,424.1,11,75,62,Laptop,Orgánico,Hogar,1
+U0076,263.1,1,0,41,Movil,Redes sociales,Ropa,0
+U0077,372.0,,50,35,Movil,Google Ads,Ropa,1
+U0078,264.3,21,68,28,Movil,Email,,1
+U0079,272.5,8,25,34,Tablet,Orgánico,Tecnología,1
+U0080,599.4,2,62,41,Laptop,Orgánico,Ropa,1
+U0081,299.4,21,44,44,Tablet,Orgánico,Tecnología,1
+U0082,512.8,23,59,24,Laptop,Orgánico,Belleza,1
+U0083,450.8,22,61,24,Movil,Google Ads,,1
+U0084,529.1,12,20,27,Tablet,Redes sociales,Tecnología,1
+U0085,463.2,18,34,25,Tablet,Redes sociales,Tecnología,0
+U0086,568.7,27,71,18,Tablet,Redes sociales,Ropa,1
+U0087,64.1,21,46,37,Movil,Redes sociales,Ropa,1
+U0088,226.6,25,53,39,Tablet,Google Ads,Ropa,1
+U0089,312.1,22,46,17,Laptop,Google Ads,Tecnología,1
+U0090,27.1,30,19,52,Movil,,Belleza,1
+U0091,319.0,30,18,60,Laptop,Orgánico,Ropa,0
+U0092,529.2,3,4,50,Laptop,Orgánico,,0
+U0093,534.7,18,75,32,Movil,Email,Belleza,0
+U0094,79.2,10,73,63,Movil,Orgánico,Hogar,0
+U0095,213.5,10,73,59,Movil,Orgánico,Ropa,1
+U0096,59.9,14,16,46,Movil,Orgánico,Tecnología,0
+U0097,266.8,30,62,62,Laptop,Google Ads,Ropa,1
+U0098,24.4,6,71,39,Movil,Orgánico,Tecnología,1
+U0099,475.8,5,75,42,Movil,Email,Hogar,1
+U0100,341.6,29,43,40,Laptop,Google Ads,Ropa,1
+U0101,248.7,8,50,37,Tablet,Redes sociales,Belleza,0
+U0102,78.7,,10,28,Tablet,Redes sociales,Ropa,0
+U0103,498.7,27,74,44,,Email,Belleza,1
+U0104,59.2,4,69,26,Laptop,Google Ads,,1
+U0105,39.8,13,12,36,Movil,Orgánico,Hogar,0
+U0106,,4,34,,Laptop,Orgánico,Belleza,1
+U0107,459.0,21,16,35,Tablet,Orgánico,Belleza,1
+U0108,257.1,30,71,44,Movil,Redes sociales,Belleza,0
+U0109,409.6,12,80,29,Tablet,Email,Tecnología,1
+U0110,527.6,7,78,48,Laptop,Email,Hogar,0
+U0111,548.8,5,0,54,Laptop,Redes sociales,Tecnología,0
+U0112,51.1,1,56,59,,Email,Belleza,0
+U0113,269.5,8,2,64,Laptop,Email,Ropa,1
+U0114,543.2,23,77,29,Movil,Google Ads,Belleza,1
+U0115,109.4,19,16,63,Movil,,Hogar,0
+U0116,408.3,20,32,59,Tablet,Orgánico,Tecnología,0
+U0117,409.7,15,63,39,Tablet,Redes sociales,Ropa,1
+U0118,594.2,8,,20,,Google Ads,Ropa,1
+U0119,505.1,8,13,46,Movil,Email,Tecnología,0
+U0120,79.3,2,4,40,Laptop,Redes sociales,Ropa,0
+U0121,510.7,13,12,55,Laptop,Google Ads,,1
+U0122,312.7,19,24,22,Movil,Redes sociales,Tecnología,1
+U0123,115.6,5,5,19,Movil,Email,Belleza,0
+U0124,178.2,1,66,53,Tablet,Google Ads,Tecnología,1
+U0125,45.7,7,60,60,Tablet,Orgánico,Hogar,0
+U0126,300.1,30,0,56,Movil,Google Ads,Belleza,1
+U0127,594.0,12,1,20,Laptop,Redes sociales,Tecnología,1
+U0128,135.3,9,22,37,Tablet,Google Ads,Ropa,1
+U0129,206.3,7,39,45,Movil,Email,Hogar,0
+U0130,554.9,26,24,28,Tablet,Orgánico,Hogar,1
+U0131,93.4,8,6,56,Laptop,Google Ads,Belleza,0
+U0132,307.9,16,66,45,Movil,Email,Hogar,1
+U0133,128.3,29,25,44,Movil,Orgánico,Ropa,1
+U0134,269.5,12,29,53,Movil,Orgánico,Hogar,1
+U0135,389.0,12,,34,Tablet,Redes sociales,Hogar,0
+U0136,490.3,22,35,28,Tablet,Google Ads,Hogar,1
+U0137,285.8,17,19,41,Movil,Google Ads,Ropa,1
+U0138,116.8,25,53,,Laptop,Orgánico,Tecnología,1
+U0139,254.4,,51,64,Tablet,Email,Hogar,1
+U0140,548.7,19,50,40,Movil,Orgánico,Tecnología,1
+U0141,334.0,2,77,47,Movil,Google Ads,Ropa,1
+U0142,107.2,28,52,41,Movil,Redes sociales,Ropa,1
+U0143,427.3,16,,54,Tablet,Email,Ropa,1
+U0144,317.9,30,72,47,Laptop,Orgánico,Tecnología,1
+U0145,486.9,6,53,31,Movil,Orgánico,Belleza,1
+U0146,530.1,18,37,58,Movil,Google Ads,Belleza,1
+U0147,103.1,7,64,18,Laptop,,Tecnología,0
+U0148,426.9,5,41,58,Tablet,Orgánico,Belleza,1
+U0149,503.9,,12,27,Laptop,Redes sociales,Belleza,1
+U0150,321.7,15,6,56,Tablet,Redes sociales,Belleza,0
+U0151,124.0,1,53,17,Movil,Email,Ropa,0
+U0152,309.9,27,41,36,Tablet,,Ropa,0
+U0153,12.1,7,58,30,Movil,Email,Hogar,1
+U0154,553.7,19,21,32,Movil,Email,Belleza,1
+U0155,291.9,11,2,,,Orgánico,Belleza,0
+U0156,145.7,14,31,,Movil,Redes sociales,Ropa,0
+U0157,444.9,,17,33,Laptop,Redes sociales,Belleza,0
+U0158,,8,28,54,Laptop,Email,Ropa,1
+U0159,59.6,19,70,29,Movil,Redes sociales,Belleza,0
+U0160,383.2,9,61,21,Laptop,Orgánico,,1
+U0161,231.9,28,10,64,Laptop,Google Ads,Ropa,1
+U0162,97.1,7,0,16,Tablet,Email,Belleza,0
+U0163,531.6,30,15,40,Tablet,Google Ads,Ropa,1
+U0164,39.3,13,54,63,Movil,Google Ads,Belleza,1
+U0165,410.2,9,31,54,Tablet,Google Ads,Tecnología,1
+U0166,526.2,6,54,32,Tablet,Email,Belleza,1
+U0167,489.5,,26,63,Laptop,Email,Tecnología,0
+U0168,106.5,12,23,61,Movil,Google Ads,Belleza,1
+U0169,159.3,29,52,,Tablet,Redes sociales,Ropa,1
+U0170,10.7,9,0,58,Tablet,Redes sociales,Tecnología,0
+U0171,364.6,11,47,59,Laptop,Email,Ropa,0
+U0172,420.5,24,17,17,Tablet,Redes sociales,Hogar,0
+U0173,6.9,21,41,17,Tablet,Email,Tecnología,0
+U0174,563.8,30,60,58,Tablet,Redes sociales,Belleza,1
+U0175,479.1,10,70,45,Movil,Orgánico,Tecnología,1
+U0176,22.4,30,41,40,Laptop,Google Ads,Hogar,0
+U0177,203.0,8,73,65,Tablet,Redes sociales,Hogar,1
+U0178,138.0,4,37,21,Movil,Redes sociales,Hogar,0
+U0179,6.0,2,75,50,Movil,Orgánico,Belleza,0
+U0180,325.3,15,40,25,Laptop,,Belleza,0
+U0181,303.9,23,15,33,Tablet,Orgánico,Ropa,1
+U0182,487.2,23,6,,Movil,Orgánico,Belleza,1
+U0183,212.2,13,50,20,Tablet,Email,Hogar,0
+U0184,510.6,23,38,45,Tablet,Google Ads,Ropa,1
+U0185,514.4,4,18,40,Laptop,Google Ads,Tecnología,1
+U0186,378.0,13,31,18,Movil,Google Ads,Belleza,1
+U0187,467.7,28,48,33,Tablet,Orgánico,Hogar,1
+U0188,290.3,23,12,53,Movil,Orgánico,Belleza,0
+U0189,246.2,23,2,41,Tablet,Orgánico,Tecnología,0
+U0190,112.5,20,23,16,Tablet,,Hogar,1
+U0191,306.2,12,69,26,Laptop,Redes sociales,Ropa,1
+U0192,316.0,,77,50,Tablet,Google Ads,Tecnología,1
+U0193,357.1,9,16,62,Tablet,Orgánico,Tecnología,0
+U0194,90.2,7,9,56,Tablet,Email,Ropa,0
+U0195,230.5,20,31,20,Laptop,Redes sociales,Tecnología,0
+U0196,167.8,4,48,30,Laptop,Redes sociales,Tecnología,1
+U0197,333.2,20,12,19,Movil,Email,Belleza,1
+U0198,159.1,22,65,61,Movil,Google Ads,Ropa,1
+U0199,425.5,6,56,38,Laptop,Email,Hogar,0
+U0200,463.5,28,11,56,Movil,Redes sociales,Ropa,0
